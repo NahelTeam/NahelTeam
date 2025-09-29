@@ -1,0 +1,13 @@
+{
+  "title": "Home - Nahl Foundation",
+  "hero": {
+    "title": "Nahl Foundation",
+    "subtitle": "We build community through volunteer work and arts",
+    "image": "/uploads/hero.jpg"
+  },
+  "sections": [
+    {"type":"text","title":"About","body":"We are a foundation that aims..."},
+    {"type":"projects_teaser","title":"Our Work"}
+  ],
+  "updated_at": "2025-09-29"
+}
